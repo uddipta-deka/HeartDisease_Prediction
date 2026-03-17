@@ -46,6 +46,7 @@ Based on these results, **Logistic Regression** performed the best among the tes
 * scikit-learn
 * matplotlib
 * seaborn
+* StreamLit
 
 
 ## Future Improvements
