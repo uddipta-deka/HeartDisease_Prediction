@@ -1,4 +1,4 @@
-# Heart Disease Prediction
+# Heart Stroke Prediction
 
 This machine learning project that trains and compares multiple classification models to predict the presence of heart disease.
 The goal of this project is to evaluate different algorithms and identify the model that performs best based on common classification metrics.
